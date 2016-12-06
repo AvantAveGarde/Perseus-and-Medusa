@@ -1,0 +1,40 @@
+
+Perseus_and_Medusa.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Bull
+  rotate: false
+  xy: 1, 11
+  size: 343, 47
+  orig: 343, 47
+  offset: 0, 0
+  index: -1
+Perseus
+  rotate: false
+  xy: 346, 32
+  size: 219, 26
+  orig: 219, 26
+  offset: 0, 0
+  index: -1
+Medusa
+  rotate: false
+  xy: 567, 1
+  size: 196, 57
+  orig: 196, 57
+  offset: 0, 0
+  index: -1
+Bird
+  rotate: false
+  xy: 765, 10
+  size: 156, 48
+  orig: 156, 48
+  offset: 0, 0
+  index: -1
+Heart
+  rotate: false
+  xy: 346, 14
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
